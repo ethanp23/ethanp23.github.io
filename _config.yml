@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Ethan Pulido"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "Electrical Engineering undergraduate student at Virginia Tech with a focus on Controls, Robotics, and Autonomy and a speciality in drone piloting and manufacturing."
+  bio              : "Undergraduate Electrical Engineering student at Virginia Tech with a focus on Controls, Robotics, and Autonomy and a speciality in drone piloting and manufacturing."
   location         : "Blacksburg, VA"
-  employer         : "Virginia Polytechnic State and University"
+  employer         : "Virginia Tech"
   uri              : # URL
   email            : "ethanp23@vt.edu" 
 
